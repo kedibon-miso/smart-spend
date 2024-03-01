@@ -1,0 +1,41 @@
+/* ExpenseForm.css */
+.expense-form {
+  background-color: #efcac3; /* White */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+.form-control label {
+  font-weight: bold;
+  display: block;
+}
+
+.form-control input {
+  width: 100%;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.form-actions {
+  text-align: center;
+}
+
+.form-actions button {
+  background-color: #00796b; /* Peace color - darker */
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-actions button:hover {
+  background-color: #004d40; /* Peace color - darker */
+}

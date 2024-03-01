@@ -1,0 +1,14 @@
+/* App.css */
+.app {
+  background-color: #efcac3; /* Peace color */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgb(255, 202, 195);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.app-title {
+  text-align: center;
+  margin-bottom: 20px;
+}

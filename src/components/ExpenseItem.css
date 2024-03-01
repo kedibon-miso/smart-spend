@@ -1,0 +1,21 @@
+/* ExpenseItem.css */
+.expense-item {
+  background-color: #ffffff; /* White */
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+}
+
+.expense-item__description {
+  font-weight: bold;
+}
+
+.expense-item__price {
+  color: #00796b; /* Peace color */
+}
+
+.expense-item__date {
+  color: #666666;
+  font-size: 0.9rem;
+}
